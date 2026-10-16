@@ -1,0 +1,7 @@
+{
+  "mode": "brief",
+  "model": "deepseek-chat",
+  "api_key": "",
+  "hotkey": "ctrl+alt+u",
+  "log_answers": true
+}

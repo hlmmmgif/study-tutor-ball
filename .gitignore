@@ -1,0 +1,24 @@
+# 本地配置：里面会存你的 API key，绝对不要提交
+config.json
+
+# 答题记录：属于你的个人学习数据，默认不提交
+答案记录.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ���ع��ߣ�GitHub CLI �ȣ��������ڱ���Ŀ
+_tools/
